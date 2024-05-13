@@ -1,0 +1,2 @@
+Peras;4.5
+Bananas;1
